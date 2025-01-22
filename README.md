@@ -6,4 +6,4 @@ Anonymized repository for the JCLS contribution on "Making BERT Feel at Home. Mo
 
 - AnnotationTablesForClassifier.zip contains: 
 
-<img src="Annotation_Decision_Tree.png" alt="Annotation_Decision_Tree" style="width:200px;"/>
+<img src="Annotation_Decision_Tree.png" alt="Annotation_Decision_Tree" style="width:2000px;"/>
