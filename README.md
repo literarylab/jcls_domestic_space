@@ -2,5 +2,8 @@
 
 Anonymized repository for the JCLS contribution on "Making BERT Feel at Home. Modelling Domestic Space in 19th Century British Fiction"
 
+## Needed data for running the BERT model
 
-![Annotation_Decision_Tree](https://github.com/user-attachments/assets/5cd2b079-ab3e-4c15-95c7-96ca3a234725)
+- AnnotationTablesForClassifier.zip contains: 
+
+<img src="Annotation_Decision_Tree.png" alt="Annotation_Decision_Tree" style="width:200px;"/>
