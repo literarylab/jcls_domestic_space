@@ -1,0 +1,190 @@
+term,domestic,public,natural
+chamber,domestic,private,artificial
+parlor,domestic,private,artificial
+sitting room,domestic,private,artificial
+drawing room,domestic,private,artificial
+living room,domestic,private,artificial
+closet,domestic,private,artificial
+bedroom,domestic,private,artificial
+attic,domestic,private,artificial
+dining room,domestic,private,artificial
+home,domestic,private,artificial
+window-seat,domestic,private,artificial
+breakfast-room,domestic,private,artificial
+breakfast nook,domestic,private,artificial
+man cave,domestic,private,artificial
+bed-chamber,domestic,private,artificial
+home office,domestic,private,artificial
+tv room,domestic,private,artificial
+rec room,domestic,private,artificial
+family room,domestic,private,artificial
+crawlspace,domestic,private,artificial
+patio,domestic,private,artificial
+veranda,domestic,private,artificial
+sewing room,domestic,private,artificial
+sunroom,domestic,private,artificial
+dayroom,domestic,private,artificial
+home theater,domestic,private,artificial
+carport,domestic,private,artificial
+mudroom,domestic,private,artificial
+craft room,domestic,private,artificial
+dine-in kitchen,domestic,private,artificial
+rumpus room,domestic,private,artificial
+play room,domestic,private,artificial
+playroom,domestic,private,artificial
+games room,domestic,private,artificial
+box room,domestic,private,artificial
+boudoir,domestic,private,artificial
+library,uncertain,private,artificial
+study room,uncertain,private,artificial
+kitchen,uncertain,private,artificial
+bathroom,uncertain,private,artificial
+garden,uncertain,private,artificial
+courtyard,uncertain,private,artificial
+antechamber,uncertain,private,artificial
+anteroom,uncertain,private,artificial
+house,uncertain,private,artificial
+toilet,uncertain,private,artificial
+salon,uncertain,private,artificial
+cellar,uncertain,private,artificial
+garage,uncertain,private,artificial
+den,uncertain,private,artificial
+cottage,uncertain,private,artificial
+residence,uncertain,private,artificial
+basement,uncertain,private,artificial
+apartment,uncertain,private,artificial
+nursery,uncertain,private,artificial
+foyer,uncertain,private,artificial
+dining-parlour,uncertain,private,artificial
+pantry,uncertain,private,artificial
+laundry room,uncertain,private,artificial
+balcony,uncertain,private,artificial
+porch,uncertain,private,artificial
+sauna,uncertain,private,artificial
+cloakroom,uncertain,private,artificial
+back room,uncertain,private,artificial
+wardrobe,uncertain,private,artificial
+wc,uncertain,private,artificial
+water closet,uncertain,private,artificial
+park,uncertain,private,artificial
+chapel,uncertain,private,artificial
+meadow,uncertain,private,artificial
+dormitory,uncertain,private,artificial
+stairs,architecture,NA,artificial
+corridor,architecture,NA,artificial
+door,architecture,NA,artificial
+side-door,architecture,NA,artificial
+window,architecture,NA,artificial
+floor,architecture,NA,artificial
+casement,architecture,NA,artificial
+wainscoting,architecture,NA,artificial
+curtain,architecture,NA,artificial
+cottage,architecture,NA,artificial
+blankets,household_goods,NA,artificial
+swing,household_goods,NA,artificial
+night-gown,household_goods,NA,artificial
+pillow,household_goods,NA,artificial
+dressing table,household_goods,NA,artificial
+furniture,household_goods,NA,artificial
+tea-table,household_goods,NA,artificial
+cushions,household_goods,NA,artificial
+dishwasher,household_goods,NA,artificial
+laundry machine,household_goods,NA,artificial
+washing machine,household_goods,NA,artificial
+dryer,household_goods,NA,artificial
+reading chair,household_goods,NA,artificial
+armchair,household_goods,NA,artificial
+rocking chair,household_goods,NA,artificial
+carriage,nondomestic,private,artificial
+hearse,nondomestic,private,artificial
+phaeton,nondomestic,private,artificial
+automobile,nondomestic,private,artificial
+hotel,nondomestic,private,artificial
+motel,nondomestic,private,artificial
+inn,nondomestic,private,artificial
+cave,nondomestic,private,artificial
+burrow,nondomestic,private,artificial
+quarters,nondomestic,private,artificial
+cell,nondomestic,private,artificial
+brothel,nondomestic,private,artificial
+prison,nondomestic,private,artificial
+penitentiary,nondomestic,private,artificial
+camp,nondomestic,private,artificial
+campsite,nondomestic,private,artificial
+car,nondomestic,private,artificial
+taxi,nondomestic,private,artificial
+cab,nondomestic,private,artificial
+auditorium,nondomestic,public,artificial
+cafe,nondomestic,public,artificial
+coffeehouse,nondomestic,public,artificial
+coffee shop,nondomestic,public,artificial
+tavern,nondomestic,public,artificial
+bar,nondomestic,public,artificial
+saloon,nondomestic,public,artificial
+theatre,nondomestic,public,artificial
+theater,nondomestic,public,artificial
+movie theater,nondomestic,public,artificial
+cinema,nondomestic,public,artificial
+circus,nondomestic,public,artificial
+zoo,nondomestic,public,artificial
+courthouse,nondomestic,public,artificial
+town square,nondomestic,public,artificial
+commons,nondomestic,public,artificial
+baths,nondomestic,public,artificial
+gymnasium,nondomestic,public,artificial
+shop,nondomestic,public,artificial
+store,nondomestic,public,artificial
+market,nondomestic,public,artificial
+auction,nondomestic,public,artificial
+auction house,nondomestic,public,artificial
+grocer,nondomestic,public,artificial
+booth,nondomestic,public,artificial
+restaurant,nondomestic,public,artificial
+eating house,nondomestic,public,artificial
+chop house,nondomestic,public,artificial
+five and dime,nondomestic,public,artificial
+warehouse,nondomestic,public,artificial
+barracks,nondomestic,public,artificial
+stockade,nondomestic,public,artificial
+stadium,nondomestic,public,artificial
+street,nondomestic,public,artificial
+road,nondomestic,public,artificial
+highway,nondomestic,public,artificial
+church,nondomestic,public,artificial
+churchyard,nondomestic,public,artificial
+cemetery,nondomestic,public,artificial
+pumphouse,nondomestic,public,artificial
+icehouse,nondomestic,public,artificial
+ship,nondomestic,public,artificial
+slaughterhouse,nondomestic,public,artificial
+meat locker,nondomestic,public,artificial
+mall,nondomestic,public,artificial
+bank,nondomestic,public,artificial
+bookstore,nondomestic,public,artificial
+apothecary,nondomestic,public,artificial
+pharmacy,nondomestic,public,artificial
+vendor,nondomestic,public,artificial
+parking lot,nondomestic,public,artificial
+quarry,nondomestic,public,artificial
+train station,nondomestic,public,artificial
+bus stop,nondomestic,public,artificial
+brokerage,nondomestic,public,artificial
+alley,nondomestic,public,artificial
+city,nondomestic,public,artificial
+factory,nondomestic,public,artificial
+commissary,nondomestic,public,artificial
+temple,nondomestic,public,artificial
+cathedral,nondomestic,public,artificial
+train,nondomestic,public,artificial
+bus,nondomestic,public,artificial
+omnibus,nondomestic,public,artificial
+beach,nondomestic,public,Natural
+forest,nondomestic,public,Natural
+moors,nondomestic,public,Natural
+mountains,nondomestic,public,Natural
+river,nondomestic,public,Natural
+stream,nondomestic,public,Natural
+sea,nondomestic,public,Natural
+ocean,nondomestic,public,Natural
+bay,nondomestic,public,Natural
+island,nondomestic,public,Natural
