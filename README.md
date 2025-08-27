@@ -4,7 +4,7 @@ Repository for the JCLS contribution on "Making BERT Feel at Home. Modelling Dom
 
 ## Needed data for running the Domestic Space detector 
 
-- Trash_and_Domestoc_Space_Detection.ipynb (adaptation of paths needed)
+- Trash_and_Domestic_Space_Detection.ipynb (adaptation of paths needed)
 - DataForClassifier contains all the data needed for training, testing and validation
 - environment.yml and requirements.txt for setting up a virtual environment
 
