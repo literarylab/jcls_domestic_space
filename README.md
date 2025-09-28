@@ -1,6 +1,8 @@
-# Making BERT Feel at Home - A submission to the 4th Conference of Computational Literary Studies (under review)
-
+# Making BERT Feel at Home. Modelling Domestic Space in 19th-Century British and Irish Fiction
 Repository for the JCLS contribution on "Making BERT Feel at Home. Modelling Domestic Space in 19th Century British and Irish Fiction"
+
+
+Guhr, S., Monaco, J., Sherman, A., Algee-Hewitt, M. & Warner, M., “Making BERT Feel at Home. Modelling Domestic Space in 19th-Century British and Irish Fiction”, Journal of Computational Literary Studies 4(1). https://doi.org/10.48694/jcls.4164.
 
 ## Needed data for running the Domestic Space detector 
 
