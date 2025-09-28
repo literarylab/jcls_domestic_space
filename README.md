@@ -1,6 +1,5 @@
 # Making BERT Feel at Home. Modelling Domestic Space in 19th-Century British and Irish Fiction
-Repository for the JCLS contribution on "Making BERT Feel at Home. Modelling Domestic Space in 19th Century British and Irish Fiction"
-
+Repository for the JCLS contribution modelling domestic space in 19th-century British and Irish fiction
 
 Guhr, S., Monaco, J., Sherman, A., Algee-Hewitt, M. & Warner, M., “Making BERT Feel at Home. Modelling Domestic Space in 19th-Century British and Irish Fiction”, Journal of Computational Literary Studies 4(1). https://doi.org/10.48694/jcls.4164.
 
